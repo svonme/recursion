@@ -1,0 +1,26 @@
+{
+  "name": "@fengqiaogang/recursion",
+  "version": "0.1.1",
+  "description": "对一个数据进行分组后循环处理",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svonme/recursion.git"
+  },
+  "keywords": [
+    "recursion",
+    "split",
+    "qps"
+  ],
+  "author": "svon.me@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svonme/recursion/issues"
+  },
+  "homepage": "https://github.com/svonme/recursion#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
