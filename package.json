@@ -1,7 +1,7 @@
 {
   "name": "@fengqiaogang/recursion",
   "version": "0.1.1",
-  "description": "对一个数据进行分组后循环处理",
+  "description": "对一个数据进行分组且并发处理",
   "main": "src/index.js",
   "scripts": {
   },
