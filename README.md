@@ -28,9 +28,9 @@ recursion(list, 300, 1000, function(value) {
 recursion(array, Qps, time, callback);
 ```
 
-| 参数 | 是否必填 |描述 |
-| ------ | ------ | 
-| array | 是 |一组数据 |
+| 参数 | 是否必填 | 描述 |
+| ------ | ------ | ------ |
+| array | 是 | 一组数据 |
 | Qps | 否 | 单次处理的并发量 |
 | time | 否 | 每次数据处理间隔 |
 | callback | 否 | 回调函数 |
